@@ -5,7 +5,7 @@
 ### App Walk-though
  
 
-<img src="file:///C:/Users/veronika/Downloads/HelloAppDemo.gif" width=200><br>
+<img src= "https://github.com/vramey2/HelloWorld/blob/master/HelloAppDemo.gif" width=200><br>
 
  
 
